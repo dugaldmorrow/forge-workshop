@@ -2,7 +2,7 @@ modules:
   jira:projectPage:
     - key: jira-project-page
       function: ui-and-storage
-      title: DevDay23 Demos
+      title: Forge Workshop Demos
   trigger:
     - key: jira-trigger-issue-created
       function: product-trigger-issue
